@@ -1,6 +1,11 @@
 # Restify API
 
-API para convertir videos
+API para convertir videos, para usar solo clona el repositorio y ejecuta estos comandos
+
+```bash
+npm install
+npm run dev
+```
 
 ## Endpoints
 
